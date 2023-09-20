@@ -27,30 +27,21 @@ The Summary of all the tasks done for the Ajkerdeal websites are given below wit
 
 # Test Case Works for Priyoshop
 ### Test Cases
-Some of the samples of the Test Cases.
+
 ![Test Case](https://github.com/TasfiaIsrat12/PriyoShop_Manual_Testing/assets/133504097/240572d7-121c-4796-81ee-9003e8909f60)
 
-
 ### Bug Report
-Some of the samples of the Bug Report.
-<p align="center">
-  <img src="image/Bug%20Report.png" />
-</p>
+
+![Bug Report](https://github.com/TasfiaIsrat12/PriyoShop_Manual_Testing/assets/133504097/c4054060-410d-4ba5-a4bd-7def23f65e48)
 
 ### Test Case Report
 
-<p align="center">
-  <img src="image/Test%20Case%20Report.png" />
-</p>
+![Test Report](https://github.com/TasfiaIsrat12/PriyoShop_Manual_Testing/assets/133504097/e0559882-4b8d-4fce-99a3-1bc20cf19c5c)
 
 ### Test Metrics
 
-<p align="center">
-  <img src="image/Test%20Metrics.png" />
-</p>
+![Test Metrics](https://github.com/TasfiaIsrat12/PriyoShop_Manual_Testing/assets/133504097/3363dd79-34f4-4a82-9b82-dddb435fb746)
 
 ### Mind Map
-A partial Mind Map for PriyoShop.
-<p align="center">
-  <img src="image/Mindmap%20of%20Ajkerdeal.png" />
-</p>
+
+![Mind Map](https://github.com/TasfiaIsrat12/PriyoShop_Manual_Testing/assets/133504097/a321d5ca-a0cd-4a42-9530-e09c7b059401)
