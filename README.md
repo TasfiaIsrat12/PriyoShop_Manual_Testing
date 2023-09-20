@@ -28,10 +28,8 @@ The Summary of all the tasks done for the Ajkerdeal websites are given below wit
 # Test Case Works for Priyoshop
 ### Test Cases
 Some of the samples of the Test Cases.
+![Test Case](https://github.com/TasfiaIsrat12/PriyoShop_Manual_Testing/assets/133504097/240572d7-121c-4796-81ee-9003e8909f60)
 
-<p align="center">
-  <img src="image/Test%20Case.png" />
-</p>
 
 ### Bug Report
 Some of the samples of the Bug Report.
